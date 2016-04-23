@@ -392,7 +392,7 @@ hr {
 	color: #fff;
 }
 #call a.email:hover {
-	color: #999999; 
+	color: #999999;
 }
 #sf {
     display: block;
@@ -587,7 +587,10 @@ hr {
 	color: #ababab;
 }
 .cta {
-	margin-top: 100px;
+	margin-top: 80px;
+}
+.cta a {
+  margin-right: 20px;
 }
 #headerwrap h1 {
 	background: url(../img/je.png) 47% center no-repeat;
