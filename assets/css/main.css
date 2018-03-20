@@ -808,9 +808,9 @@ hr {
 		background: url(../img/je@2x.png) 0 center no-repeat;
 		background-size: contain;
 	}
-	#headerwrap {
+	/*#headerwrap {
 		background: url(../img/bottleshake-op.png) no-repeat center top;
-	}
+	}*/
 	#headerwrap h1 {
 		background: url(../img/je@2x.png) 47% center no-repeat;
 		background-size: contain;
