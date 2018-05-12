@@ -630,6 +630,11 @@ hr {
 	min-height: 620px;
 	background-size: cover;
 }
+#sp-standout.bottleshake {
+	background: url(../img/bottleshake-iphonex-mockup.jpg) no-repeat top fixed;
+	min-height: 620px;
+	background-size: cover;
+}
 #sp-standout.ccm {
 	background: url(../img/sp-standout-bg-ccm.jpg) no-repeat top fixed;
 	min-height: 620px;
@@ -710,6 +715,9 @@ hr {
 	background: url('../img/seguros-bg.jpg') center top no-repeat fixed #2d6091;
 	background-size: cover;
 }
+.bottleshake {
+	background-color: #ff8249;
+}
 .logoDisplay {
 	background: url('../img/logos-bg.jpg') center top no-repeat fixed #4E84C1;
 	background-size: cover;
@@ -717,7 +725,7 @@ hr {
 .dish h1, .dish p {
 	color: #e71f0a !important;
 }
-.farmers h1, .ccm h1, .amplio h1, .hughes h1, .gaia h1, .seguros h1, .logoDisplay h1 {
+.farmers h1, .ccm h1, .amplio h1, .hughes h1, .gaia h1, .seguros h1, .logoDisplay h1, .bottleshake h1 {
 	color: #fff;
 }
 .portfolio {
