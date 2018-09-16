@@ -630,8 +630,13 @@ hr {
 	min-height: 620px;
 	background-size: cover;
 }
+#sp-standout.princess {
+	background: url(../img/sp-standout-bg-princess.jpg) no-repeat top fixed;
+	min-height: 620px;
+	background-size: cover;
+}
 #sp-standout.bottleshake {
-	background: url(../img/bottleshake-iphonex-mockup.jpg) no-repeat top fixed;
+	background: url(../img/sp-standout-bg-bottleshake.jpg) no-repeat top fixed;
 	min-height: 620px;
 	background-size: cover;
 }
@@ -718,6 +723,10 @@ hr {
 .bottleshake {
 	background-color: #ff8249;
 }
+.princess {
+	background: url('../img/princess-bg.jpg') center top no-repeat fixed #0054a0;
+	background-size: cover;
+}
 .logoDisplay {
 	background: url('../img/logos-bg.jpg') center top no-repeat fixed #4E84C1;
 	background-size: cover;
@@ -725,7 +734,7 @@ hr {
 .dish h1, .dish p {
 	color: #e71f0a !important;
 }
-.farmers h1, .ccm h1, .amplio h1, .hughes h1, .gaia h1, .seguros h1, .logoDisplay h1, .bottleshake h1 {
+.farmers h1, .ccm h1, .amplio h1, .hughes h1, .gaia h1, .seguros h1, .logoDisplay h1, .bottleshake h1, .princess h1 {
 	color: #fff;
 }
 .portfolio {
@@ -779,7 +788,7 @@ hr {
 }
 
 @media (max-width: 480px) {
-	#sp-standout.farmers, #sp-standout.dish, #sp-standout.ccm, #sp-standout.amplio, #sp-standout.hughes, #sp-standout.gaia, #sp-standout.seguros, #sp-standout.logoDisplay {
+	#sp-standout.farmers, #sp-standout.dish, #sp-standout.ccm, #sp-standout.amplio, #sp-standout.hughes, #sp-standout.gaia, #sp-standout.seguros, #sp-standout.logoDisplay, #sp-standout.princess, #sp-standout.bottleshake {
 		display: none;
 	}
 }
