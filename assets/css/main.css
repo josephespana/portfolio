@@ -21,6 +21,9 @@ p {
 .goright {
     text-align: right;
 }
+.no-wrap {
+	white-space: nowrap;
+}
 .mt {
     padding: 25px 0;
 }
